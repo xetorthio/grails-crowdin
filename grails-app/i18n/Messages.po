@@ -1,0 +1,37 @@
+msgid ""
+msgstr "Project-Id-Version: atest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-28 10:09-0300\n"
+"PO-Revision-Date: 2010-06-02 07:07-0400\n"
+"Last-Translator: ionathan <ionathan@gmail.com>\n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.net\n"
+
+#: /home/jleibiusky/Documents/workspace/GettextTest/grails-app/views/home/index.gsp:8
+msgid "Este contrato describe los términos y condiciones generales (los \\"Términos y Condiciones Generales\\") aplicables al uso de los servicios ofrecidos por <strong>MercadoLibre S.A.</strong>, CUIT 30-70308853-4, (\\"los Servicios\\") dentro de los sitios www.mercadolibre.com.ar,  www.deremate.com.ar y www.mercadopago.com.ar (\\"<strong>MercadoLibre</strong>\\" o el \\"sitio\\"). Cualquier persona (en adelante \\"Usuario\\" o en plural \\"Usuarios\\") que desee acceder y/o usar el sitio o los Servicios podrá hacerlo sujetándose a los Términos y Condiciones Generales respectivos, junto con todas las demás políticas y principios que rigen <strong>MercadoLibre</strong> y que son incorporados al presente por referencia."
+msgstr ""
+
+#: /home/jleibiusky/Documents/workspace/GettextTest/grails-app/views/home/index.gsp:9
+msgid "Hola {0}, Bienvenido a MercadoLibre!"
+msgstr "Hola {0}, Bienvenido a MercadoLibre!"
+
+#: /home/jleibiusky/Documents/workspace/GettextTest/grails-app/views/home/index.gsp:10
+#: /home/jleibiusky/Documents/workspace/GettextTest/grails-app/views/home/index.gsp:11
+#: /home/jleibiusky/Documents/workspace/GettextTest/grails-app/views/home/index.gsp:12
+msgid "Tienes 1 punto"
+msgid_plural "Tienes {0} puntos"
+msgstr[0] "Tienes un punto"
+msgstr[1] "Tienes 1 punto"
+
+#: /home/jleibiusky/Documents/workspace/GettextTest/grails-app/views/home/index.gsp:13
+msgid "Cliquee <a href=\\"{0}\\" class=\\"eliminar\\">aquí</a> para eliminar la pregunta."
+msgstr ""
+
+#: /home/jleibiusky/Documents/workspace/GettextTest/grails-app/views/home/index.gsp:14
+msgid "Hola mundo!"
+msgstr "Hola mundo!"
+
